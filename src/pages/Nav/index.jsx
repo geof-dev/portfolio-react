@@ -61,7 +61,7 @@ const NavWrap = ({children}) => {
             className ="sm:fixed top-0 left-0 right-0
                         flex place-content-between
                         lg:px-16 sm:px-10 px-4 sm:py-5 py-4
-                        sm:dark:bg-zinc-800 sm:shadow-sm sm:bg-zinc-100"
+                        sm:dark:bg-zinc-800 sm:shadow-sm sm:bg-zinc-100 z-10"
         >
             {children}
         </nav>

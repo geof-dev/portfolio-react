@@ -34,7 +34,7 @@ const NavWrapMobile = ({children}) => {
       <nav 
           className ="sm:hidden fixed bottom-0 left-0 right-0
                       dark:bg-zinc-800 bg-zinc-100 
-                      border-0 border-teal-400 shadow-md"
+                      border-0 border-teal-400 shadow-md z-10"
       >
           <ul 
               className="flex place-content-center gap-10 p-4 font-normal"
