@@ -31,15 +31,15 @@ function Nav(props) {
                 </NavList>  
                 <div className="flex">
 						<button className="px-2 py-2 rounded-lg dark:hover:bg-zinc-600 hover:bg-gray-200"
-							onClick={() => { i18n.changeLanguage("EN"); }}
+							onClick={() => { i18n.changeLanguage("en"); }}
 						><Flag country="GB" />
 						</button>
                         <button className="px-2 py-2 rounded-lg dark:hover:bg-zinc-600 hover:bg-gray-200"
-							onClick={() => { i18n.changeLanguage("FR"); }}
+							onClick={() => { i18n.changeLanguage("fr"); }}
 						><Flag country="FR" />
 						</button>
 						<button className="px-2 py-2 rounded-lg dark:hover:bg-zinc-600 hover:bg-gray-200"
-							onClick={() => { i18n.changeLanguage("EE"); }}
+							onClick={() => { i18n.changeLanguage("ee"); }}
 						><Flag country="EE" />
 						</button>
                 </div>
