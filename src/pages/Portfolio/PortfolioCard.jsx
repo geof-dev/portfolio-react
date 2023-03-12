@@ -12,10 +12,10 @@ function Portfolio(props) {
     return (        
         <div key={id} >
             <PortfolioCardWrap>
-            <img className="w-full rounded-t-lg" src={"./assets/project"+id+".png"} alt="Sunset in the mountains" />
+            <img className="w-full rounded-t-lg" src={"./assets/project"+id+".png"} alt={title} />
                 <div className="p-6">
                     <H3>
-                        {t('titleproject'+id)}
+                        {title}
                         <span className="flex gap-1 mt-.5">
                             {githubLink &&
                                 <a target="_blank" href={githubLink}>
@@ -31,7 +31,7 @@ function Portfolio(props) {
                     </H3>
                 
                 <CardBodyText>
-                    {t('descproject'+id)}
+                    {t('project'+id)}
                 </CardBodyText>
                 <TagList>
                     <li>{tags[0]}</li>
