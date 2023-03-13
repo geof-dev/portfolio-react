@@ -1,17 +1,18 @@
 {
     "hi": "Bonjour, je suis ",
-    "bio": "Je suis développeur web PHP FullStack originaire de France qui vit en Estonie. Vous recherchez une personne pour développer votre site ou application web ? Je développe des applications PHP depuis plus de 6 ans et je maitrise le framework Laravel et le CMS WordPress. Si vous avez besoin de développer une application dynamique et réactive, je maitrise JavaScript et le framework React. Sentez-vous libre de me contacter :)",
+    "bio1": "Développeur web PHP FullStack originaire de France et résidant aujourd'hui en Estonie, je suis passionné par le développement de sites web uniques qui aident mes clients à atteindre leurs objectifs en ligne. Avec plus de six ans d'expérience dans le développement PHP, j'ai perfectionné mes compétences à la fois dans le framework Laravel et le CMS WordPress.",
+    "bio2": "Que vous soyez une petite entreprise ou une grande société, je peux vous aider à développer un site web qui répond à vos besoins spécifiques. De la conception d'un site web personnalisé à la maintenance et à l'assistance, je m'engage à fournir un service exceptionnel tout au long du processus. Si vous êtes prêt à faire passer votre présence en ligne au niveau supérieur, n'hésitez pas à me contacter. Je serai ravie de discuter de votre projet et de vous fournir un devis gratuit.",
     "seemywork": "Voir mon travail",
     "contact": "Contact",
     "contactmeon": "Vous pouvez me contacter sur :",
-    "project1": "Développement de plugins sur mesure pour un site WordPress utilisant WooCommerce.",
-    "project2": "Website about Blockchain Developement. It is develop with Next.js and include a Blog and a mail capture form.",
+    "project1": "Modification du thème existant et développement de plugins sur mesure pour un site WordPress utilisant WooCommerce.",
+    "project2": "Single Page Application développé avec Next.js incluant une page d'accueil avec formulaire de capture d'email ainsi qu'un Blog. ",
     "project3": "Je développe actuellement une application SaaS permettant de créer un site et d'héberger des formations.",
     "project4": "Pendant 4 ans, j'ai développé une application SaaS pour aider les clubs de gymnastique à gérer leurs membres. Environ 300 clubs et plus de 4000 utilisateurs l'utilisaient chaque jour. Plusieurs applications tierces ont été intégrées comme Mailjet et HelloAsso.",
-    "project5": "J'ai développé un système de payement de crypto automatiser pour les produits digitaux d'un client.",
-    "project6": "Développement d'un espace membre sécurisé sur mesure avec un accès par Token et un backoffice permettant la gestion du contenu cet espace membre.",
-    "project7": "MintIt is a Decentralized Application allowing artists to create and manage their NFT collections without writing any code.",
-    "project8": "I installed a WordPress site for my gym and trained the users to use WordPress.",
-    "project9": "I worked for Orange and developed 2 interactive services for their TV : ",
-    "project10": "During my intership I developed an extranet web application allowing the linking of employees of FACET Ingénierie, partners and customers."
+    "project5": "J'ai développé un système de payement en crypto automatisé pour les produits digitaux d'un client. Lors que l'achat est bien validé sur la Blockchain, le produit est envoyé par mail.",
+    "project6": "Développement d'un espace membre sécurisé sur mesure avec un accès par Token et un backoffice permettant la gestion du contenu de ce même espace membre.",
+    "project7": "Pendant ma formation Alyra (Développeur Blockchain) J'ai développé une application en React.js permettant aux artistes de créer et de gérer leurs collections NFT sans écrire de code.",
+    "project8": "J'ai installé un site WordPress pour mon club de Gymnastique et formé les utilisateurs à l'utilisation de WordPress.",
+    "project9": "Pendant presque 2 ans, j'ai travaillé chez Orange et développé les services interactif 'Musique' pour leur TV. Ces applications ont été développées en JavaScript et le framework AngularJS (version 1).",
+    "project10": "Au cours de mon stage, j'ai développé une application web extranet permettant la mise en relation des collaborateurs de FACET Ingénierie, des partenaires et des clients."
 }

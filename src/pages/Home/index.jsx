@@ -19,7 +19,9 @@ function Home() {
                                 </span>
                 </H2>
                 <p>
-                    {t('bio')}
+                    {t('bio1')}
+                    <br />
+                    {t('bio2')}
                 </p>
                 <IconList />
                 <HomeButton value={t('seemywork')} />

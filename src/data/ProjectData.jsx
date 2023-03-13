@@ -27,7 +27,7 @@ export default [
     },
     {
         id: 5,
-        title: "Crypto payment",
+        title: "Crypto payment system",
         tags: ["PHP", "MySQL"]
     },
     {
@@ -49,12 +49,12 @@ export default [
     },
     {
         id: 9,
-        title: "Orange",
+        title: "Orange Music TV applications",
         tags: ["JavaScript", "AngularJS"]
     },
     {
         id: 10,
-        title: "Facet",
+        title: "FACET Ingénierie Extranet",
         tags: ["PHP", "MySQL"]
     },
 
